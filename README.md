@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🧠 I’m interested in web development, user experience, production cycle, growth hacking, data structure, booking engines, optimization, and process efficiency.
-- 👀 I’m looking to collaborate on diverse teams and challenging projects.
+Java - Python - SQL - JSON - HTML - CSS - JavaScript - React - Web Services API - AWS S3 - Github - Gitpod
 
-Salu2!
+Webflow, WordPress, Squarespace, Shopify, BigCommerce, Zapier, Airtable, Asana, HubSpot, Typeform, GSheets, Active Campaign, Trello, Bill.com, Zendesk, Stripe, Givebutter, Square, Mailchimp, Benchmark, Quickbooks, TiendaNube, Mathlab, Lucidchart
 
